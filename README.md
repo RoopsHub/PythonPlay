@@ -1,1 +1,2 @@
 # PythonPlay
+In this repository, I record my ongoing Python programming journey by constantly updating the code snippets and projects that I try out as part of my learning process. Currently, I've finished a real-time weather app and a sorting assignment. These projects serve as concrete evidence of my development, allowing me to demonstrate the skills and information that I am gaining from my Python programming attempts. In addition, as I learn more about Python coding, I create new projects and improve current ones.
